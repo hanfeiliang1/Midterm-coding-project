@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fdf9332-a6fc-49a9-9b28-1c8ec531cc6a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pkgShape/Cuboid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="157">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#568#569#0" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/pkgShape/CuboidTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/pkgShape/RectangleTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="387">
+              <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pkgShape/Rectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-689">
+              <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+              <folding>
+                <element signature="e#382#383#0" expanded="true" />
+                <element signature="e#412#413#0" expanded="true" />
+                <element signature="e#443#444#0" expanded="true" />
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#645#646#0" expanded="true" />
+                <element signature="e#665#666#0" expanded="true" />
+                <element signature="e#836#837#0" expanded="true" />
+                <element signature="e#857#858#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pkgShape/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>s</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/pkgShape/iReadRectangle.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/RectangleTestTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pkgShape/CuboidTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/test/CuboidTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pkgShape/cMain.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pkgShape/Shape.java" />
+        <option value="$PROJECT_DIR$/src/test/pkgShape/RectangleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pkgShape/Rectangle.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pkgShape/Cuboid.java" />
+        <option value="$PROJECT_DIR$/src/test/pkgShape/CuboidTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="977" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MidtermStarterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm Coding Project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MidtermStarterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm Coding Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MidtermStarterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm Coding Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MidtermStarterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm Coding Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MidtermStarterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm Coding Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="pkgShape" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MidtermStarterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm Coding Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MidtermStarterProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Midterm Coding Project" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="pkgShape" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554181319569" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="pkgShape" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test.pkgShape" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CuboidTest.sortByAreaTest">
+    <configuration name="CuboidTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MidtermStarterProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkgShape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pkgShape" />
+      <option name="MAIN_CLASS_NAME" value="pkgShape.CuboidTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CuboidTest.perimeterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MidtermStarterProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkgShape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pkgShape" />
+      <option name="MAIN_CLASS_NAME" value="pkgShape.CuboidTest" />
+      <option name="METHOD_NAME" value="perimeterTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CuboidTest.sortByAreaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MidtermStarterProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkgShape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pkgShape" />
+      <option name="MAIN_CLASS_NAME" value="pkgShape.CuboidTest" />
+      <option name="METHOD_NAME" value="sortByAreaTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CuboidTest.sortByVolumeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MidtermStarterProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkgShape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pkgShape" />
+      <option name="MAIN_CLASS_NAME" value="pkgShape.CuboidTest" />
+      <option name="METHOD_NAME" value="sortByVolumeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pkgShape in MidtermStarterProject" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="MidtermStarterProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pkgShape.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="pkgShape" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CuboidTest.sortByAreaTest" />
+        <item itemvalue="JUnit.CuboidTest.sortByVolumeTest" />
+        <item itemvalue="JUnit.pkgShape in MidtermStarterProject" />
+        <item itemvalue="JUnit.CuboidTest" />
+        <item itemvalue="JUnit.CuboidTest.perimeterTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../GitHub/flow-shark" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../GitHub/flow-shark2" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-2.0" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../akka-2.5.19" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fdf9332-a6fc-49a9-9b28-1c8ec531cc6a" name="Default Changelist" comment="" />
+      <created>1553629698632</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1553629698632</updated>
+      <workItem from="1553629701362" duration="1874000" />
+      <workItem from="1553631677282" duration="242000" />
+      <workItem from="1554168228205" duration="2141000" />
+      <workItem from="1554175176156" duration="4433000" />
+      <workItem from="1554180271382" duration="1022000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CuboidTest_sortByAreaTest - 2019.04.02 at 00h 54m 30s.xml">
+      <configuration name="CuboidTest.sortByAreaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CuboidTest_sortByAreaTest - 2019.04.02 at 00h 55m 02s.xml">
+      <configuration name="CuboidTest.sortByAreaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CuboidTest_sortByAreaTest - 2019.04.02 at 00h 55m 22s.xml">
+      <configuration name="CuboidTest.sortByAreaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CuboidTest_sortByAreaTest - 2019.04.02 at 00h 58m 05s.xml">
+      <configuration name="CuboidTest.sortByAreaTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CuboidTest_sortByVolumeTest - 2019.04.02 at 00h 58m 19s.xml">
+      <configuration name="CuboidTest.sortByVolumeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CuboidTest_sortByVolumeTest - 2019.04.02 at 00h 59m 41s.xml">
+      <configuration name="CuboidTest.sortByVolumeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="pkgShape_in_MidtermStarterProject - 2019.04.02 at 01h 01m 46s.xml">
+      <configuration name="pkgShape in MidtermStarterProject" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CuboidTest_sortByVolumeTest - 2019.04.02 at 01h 01m 49s.xml">
+      <configuration name="CuboidTest.sortByVolumeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CuboidTest_sortByVolumeTest - 2019.04.02 at 01h 01m 57s.xml">
+      <configuration name="CuboidTest.sortByVolumeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CuboidTest_sortByAreaTest - 2019.04.02 at 01h 02m 00s.xml">
+      <configuration name="CuboidTest.sortByAreaTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9712000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="977" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27529287" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="0" weight="0.32946634" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.32946634" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39907193" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="SBT Console" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Duplicate detector" order="14" weight="0.32946634" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="JUnit">
+        <watch expression="cuboidsArray[0]" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pkgShape/CuboidTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/pkgTestShape/package-info.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/RectangleTestTest.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/test/CuboidTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/pkgShape/cMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/pkgShape/CuboidTest.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/Test.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.11/junit-4.11.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="119" column="23" selection-start-line="119" selection-start-column="23" selection-end-line="119" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pkgShape/iReadRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pkgShape/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pkgShape/Rectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-689">
+          <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+          <folding>
+            <element signature="e#382#383#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+            <element signature="e#443#444#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#645#646#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#857#858#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/pkgShape/RectangleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="35" column="16" selection-start-line="35" selection-start-column="16" selection-end-line="35" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pkgShape/Cuboid.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#568#569#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/pkgShape/CuboidTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="94" lean-forward="true" selection-start-line="94" selection-end-line="94" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
